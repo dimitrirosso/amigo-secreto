@@ -43,6 +43,7 @@ function sortear() {
     }
 }
 
+
 function embaralha(lista) {
 
     for (let indice = lista.length; indice; indice--) {
