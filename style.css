@@ -103,6 +103,7 @@ body {
   font-style: normal;
 }
 
+
 .form__buttons {
   align-items: center;
   display: flex;
@@ -129,6 +130,7 @@ body {
   color: #fff;
   font-size: 21px;
 }
+
 
 .form__label {
   color: #1875e8;
